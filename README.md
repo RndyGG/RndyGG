@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RndyGG
 - 👀 I’m interested in programming samp
-- 🌱 I’m currently learning samp language
+- 🌱 I’m currently learning pawn language
 - 💞️ I’m looking to collaborate on make of server
 - 📫 How to reach me chat my discord RndyGnz#7498
 
